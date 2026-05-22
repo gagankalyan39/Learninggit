@@ -1,2 +1,13 @@
 # Learninggit
 This is my first self learning repository used just to learn how to use git offline and online and how to push the codes into github. And complete working with the git
+
+<br>
+Gagan Kalyan    
+
+ls- this allows to see the files in the folder.
+cd- changes the directory 
+
+git status:-  This checks whether there is any changes done to the files 
+
+git add "filename" : this allows to add stage or save the files and make ready to commit
+</br>
