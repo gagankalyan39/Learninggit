@@ -10,4 +10,6 @@ cd- changes the directory
 git status:-  This checks whether there is any changes done to the files 
 
 git add "filename" : this allows to add stage or save the files and make ready to commit
+git commit -m "Comments on what u changed" : This allows to save the files 
+git push origin main : This allows to push the files into the github and saves it in the github remote.
 </br>
